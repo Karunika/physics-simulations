@@ -34,8 +34,8 @@ npm run eject
 ```bat
 /projectile-motion-simulation
 ```
-It is a simple program that simulates a projectile motion based on the intial velocity & angle of projection.
+It is a simple program that simulates a projectile motion based on the inserted intial velocity & angle of projection.
 
-Preview:
-<img src="./assets/ProjectileMotion.gif">
+Preview: <br /><br />
+<img src="./assets/ProjectileMotion.gif" width="280">
 
